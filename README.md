@@ -5,6 +5,8 @@ npm install
 npm start
 ```
 
+View the project: https://journal-learning.netlify.app/
+
 Head over to https://vitejs.dev/ to learn more about configuring vite
 ## About Scrimba
 
