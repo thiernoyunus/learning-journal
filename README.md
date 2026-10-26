@@ -1,4 +1,8 @@
 <p align="center">
+  <img src=".github/assets/logo.png" width="112" alt="Learning Journal logo" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/header/gradient.svg?title=Learning+Journal&subtitle=A+bootcamp+student%27s+learning+blog&logo=notion&mode=dark" />
     <img alt="Learning Journal" src="https://shieldcn.dev/header/gradient.svg?title=Learning+Journal&subtitle=A+bootcamp+student%27s+learning+blog&logo=notion&mode=light" />
