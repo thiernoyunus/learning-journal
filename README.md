@@ -1,21 +1,35 @@
-# Getting Started
-Install the dependencies and run the project
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/header/gradient.svg?title=Learning+Journal&subtitle=A+bootcamp+student%27s+learning+blog&logo=notion&mode=dark" />
+    <img alt="Learning Journal" src="https://shieldcn.dev/header/gradient.svg?title=Learning+Journal&subtitle=A+bootcamp+student%27s+learning+blog&logo=notion&mode=light" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://journal-learning.netlify.app"><img alt="Live demo" src="https://shieldcn.dev/badge/Live-Demo-22c55e.svg?variant=secondary&logo=netlify" /></a>
+  <a href="https://vitejs.dev/"><img alt="Vite" src="https://shieldcn.dev/badge/Built_with-Vite-646CFF.svg?variant=secondary&logo=vite" /></a>
+  <a href="https://github.com/thiernoyunus/learning-journal/commits"><img alt="Last commit" src="https://shieldcn.dev/github/last-commit/thiernoyunus/learning-journal.svg?variant=secondary" /></a>
+  <a href="https://github.com/thiernoyunus/learning-journal/stargazers"><img alt="Stars" src="https://shieldcn.dev/github/stars/thiernoyunus/learning-journal.svg?variant=secondary" /></a>
+</p>
+
+
+A multi-page learning blog (home, about and post pages) about my move from the Frontend Developer Career Path to a coding bootcamp.
+
+**Live demo:** [https://journal-learning.netlify.app](https://journal-learning.netlify.app)
+
+## Getting started
+
+Install the dependencies and run the project:
+
 ```
 npm install
 npm start
 ```
 
-View the project: https://journal-learning.netlify.app/
+## Built with
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+HTML, CSS and JavaScript, bundled with [Vite](https://vitejs.dev/).
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Credits
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+Built as part of a [Scrimba](https://scrimba.com/courses) course. More from Scrimba: [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack) · [Scrimba Pro](https://scrimba.com/pricing)
